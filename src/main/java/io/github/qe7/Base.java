@@ -37,7 +37,7 @@ public final class Base {
     private Base() {
         name = "Notorious";
         build = "1";
-        authors = new String[]{"Shae", "Brett"};
+        authors = new String[]{"Shae"};
         credits = new String[]{"Eternal - Parts of the Event System are probably inspired from his."};
 
         eventBus = new EventBus();
