@@ -18,9 +18,10 @@ Welcome to Notorious-Base, your go-to Minecraft client base!
 
 Notorious-Base is designed to be somewhat expandable and easy to use for new and veteran developers alike. Whether you're a beginner or an experienced developer, this base offers a bare template for creating a decent client.
 
-## Pictures
+## Images
 
-TODO
+![image_1](https://raw.githubusercontent.com/qe7/notorious-base/main/images/image_1.png)
+![image_2](https://raw.githubusercontent.com/qe7/notorious-base/main/images/image_2.png)
 
 ## Examples
 
