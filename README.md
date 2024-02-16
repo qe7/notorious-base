@@ -11,7 +11,7 @@ Welcome to Notorious-Base, your go-to Minecraft client base!
 
 ## Credits
 
-- Eternal: Parts of the Event bus are likely from his, and also answering questions that were probably implimented in this base.
+- Eternal: Event bus is almost completely his*, and also answering questions that were probably implimented in this base.
 
 ## Requirements
 
