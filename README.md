@@ -9,6 +9,10 @@ Welcome to Notorious-Base, your go-to Minecraft client base!
 - **Event bus**: A simple Event bus that has event priority.
 - **Clickable UI**: activated by default with `R_SHIFT`.
 
+## Credits
+
+- Eternal: Parts of the Event bus are likely from his, and also answering questions that were probably implimented in this base.
+
 ## Requirements
 
 - Java 21
